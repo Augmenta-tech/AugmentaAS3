@@ -60,6 +60,6 @@ Check [TODO](TODO.md) and [TOFIX](TOFIX.md)
 Thanks
 ------
 
-David-Alexandre Chanel, Benjamin Kuperberg
+Benjamin Kuperberg, David-Alexandre Chanel
 
 [Théoriz studio]: http://www.theoriz.com/
