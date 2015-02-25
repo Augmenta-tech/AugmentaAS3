@@ -1,7 +1,7 @@
 Augmenta for Action Script 3
 ============================
 
-An [AS3][] Augmenta helper library and examples maintained by [Théoriz studio][]
+An AS3 Augmenta helper library and examples maintained by [Théoriz studio][]
 
 Install
 -------
