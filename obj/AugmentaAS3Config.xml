@@ -14,7 +14,7 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'03/04/2015'</value>
+      <value>'08/05/2015'</value>
     </define>
     <define append="true">
       <name>CONFIG::air</name>
@@ -39,7 +39,7 @@
     </source-path>
   </compiler>
   <file-specs>
-    <path-element>D:\Documents\Pro\Projects\Theoriz\Augmenta\SDK\AugmentaAS3\src\Main.as</path-element>
+    <path-element>D:\Documents\Pro\Projects\Theoriz\Augmenta\SDK\AugmentaAS3\src\AugmentaFishDemo.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>

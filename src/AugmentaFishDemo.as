@@ -1,5 +1,6 @@
 package
 {
+	import com.theoriz.augmenta.*;
 	import flash.display.Sprite;
 	import flash.geom.Point;
 	
@@ -7,11 +8,11 @@ package
 	 * ...
 	 * @author Ben Kuper
 	 */
-	public class Main extends Sprite 
+	public class AugmentaFishDemo extends Sprite 
 	{
 		private var ac:AugmentaClient;
 		
-		public function Main() 
+		public function AugmentaFishDemo() 
 		{
 			
 			ac = new AugmentaClient();

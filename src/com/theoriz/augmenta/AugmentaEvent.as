@@ -1,4 +1,4 @@
-package 
+package com.theoriz.augmenta
 {
 	import flash.events.Event;
 	
