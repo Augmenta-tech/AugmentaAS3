@@ -37,6 +37,9 @@
       <path-element>D:\Documents\Ressources\AS3\as3-utils\src</path-element>
       <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
+    <library-path append="true">
+      <path-element>D:\Documents\Pro\Projects\Theoriz\Augmenta\SDK\AugmentaAS3\lib\OSCManager.swc</path-element>
+    </library-path>
   </compiler>
   <file-specs>
     <path-element>D:\Documents\Pro\Projects\Theoriz\Augmenta\SDK\AugmentaAS3\src\AugmentaFishDemo.as</path-element>
